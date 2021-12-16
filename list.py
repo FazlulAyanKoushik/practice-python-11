@@ -4,3 +4,5 @@ print(number)
 index = number.index(15)
 number[index] = 111
 print(number)
+
+print("we are testing git bash")
